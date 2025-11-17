@@ -1,0 +1,25 @@
+project:
+  type: website
+  output-dir: docs
+  
+website:
+  title: "Privacy and Public Policy Conference"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - schedule.qmd
+      - registration.qmd
+      - support.qmd
+      - committee.qmd
+      - travel.qmd
+      
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+

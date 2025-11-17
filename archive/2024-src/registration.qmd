@@ -1,0 +1,42 @@
+---
+title: "Registration"
+---
+
+**Registration is free** thanks to the generous support from the Alfred P. Sloan Foundation (G-2022-19513). The registration is now closed.
+
+<!-- If you would like to attend this conference, please click [here](https://forms.gle/A79uQdfmiCQvko2XA) to register! -->
+
+<!-- General registration opens on **May 20, 2024** and closes on **August 2, 2024**. Conference attendance may be restricted due to space and funding limitations, and registration may be closed before August 2, 2024. -->
+
+General registration opens on **May 20, 2024** and closes on **August 30, 2024**. Conference attendance may be restricted due to space and funding limitations, and registration may be closed before August 30, 2024.
+
+Oral and poster presenters, please register by **May 31, 2024**.
+
+If you have issues with using the Google Form registration, please email your registration to the conference email address at privacy dot and dot public dot policy dot conference at proton dot me (privacy.and.public.policy.conference@proton.me) with the following information.
+
+- Name
+- Email
+- Affiliation
+- Job title
+- Are you interested in being a session chair?
+    - Yes
+    - No
+    - Maybe
+- Are you interested in being a poster session judge?
+    - Yes
+    - No
+    - Maybe
+- Which days are you planning to attend?
+    - Day 1 only
+    - Day 2 only
+    - Both days
+- What is your role in this conference? Check all that apply.
+    - Attendee
+    - Co-author of a oral presentation and/or a poster
+    - Oral presenter
+    - Organizer 
+    - Panelist
+    - Poster presenter
+    - Volunteer
+- Do you have any dietary preferences? e.g., vegan.
+
