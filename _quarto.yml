@@ -8,11 +8,16 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - schedule.qmd
-      - registration.qmd
-      - support.qmd
+      - participation.qmd
+      # - schedule.qmd
+      # - registration.qmd
+      # - support.qmd
       - committee.qmd
       - travel.qmd
+      - text: Past Conferences
+        menu:
+          - text: 2024 PPPC
+            href: prev_yrs/2024_index.qmd
       
 
 format:

@@ -1,6 +1,6 @@
 ---
 title: "Privacy and Public Policy Conference"
-subtitle: "Georgetown University, September 13-14, 2024"
+subtitle: "Georgetown University, February 9-10, 2026"
 ---
 
 McCourt School of Public Policy\
@@ -9,59 +9,41 @@ Washington, DC 20001
 
 ## Privacy and Public Policy Conference
 
-The goal of this conference is to foster and enhance collaboration among privacy experts, researchers, data stewards, data practitioners, and public policymakers. This event serves as a crucial platform to bridge communication gaps across these diverse groups and collectively explore technical and policy solutions for addressing challenges related to data privacy and public policy!
+The inaugural conference in 2024 was an enormous success (see details [here](prev_yrs/2024_index.qmd)) and we are thrilled to be able to come back for another round. The goal of this conference is to foster and enhance collaboration among privacy experts, researchers, data stewards, data practitioners, and public policymakers. This event serves as a crucial platform to bridge communication gaps across these diverse groups and collectively explore technical and policy solutions for addressing challenges related to data privacy and public policy.
 
 ## **Tentative Program Structure**
 
-The Conference Committee is currently in the process of planning a two-day conference with a single-track format. The event will commence with an invited panel of speakers who will discuss the practical implementation of various data privacy laws before a series of speakers present based on submitted abstracts. In the evening, we are excited to host a poster session, complete with prizes for the best poster presentations. On the second day, following additional presentations, we will wrap up the event with engaging roundtable discussions.
+The Conference Committee is currently in the process of planning a two-day conference with a single-track format. The event will commence with an invited panel of speakers who will discuss the practical implementation of various data privacy laws before a series of speakers present based on submitted abstracts. <!-- In the evening, we are excited to host a poster session, complete with prizes for the best poster presentations.  --> On the second day, following additional presentations, we will wrap up the event with engaging roundtable discussions.
 
 ## **Call for Participation**
 
-If you would like to present either an oral or poster presentation, please click [here](https://docs.google.com/forms/d/e/1FAIpQLSe3JWSrB8U0adk_INZ5eQaMaeGV7-P5muDX_LUXKoRp72x89w/viewform) to sign up! This conference requires an extended abstract, where we have links to abstract templates are below. Abstracts based on papers that are already published are welcomed, but must be published recently (since 2021). If your abstract is accepted, you consent to having your abstract publicly available on the conference website.
+Are you doing amazing work related to data privacy or public policy? We are currently accepting abstract submissions and if you would like to present either an oral or poster presentation, please refer to the [call for participation page](participation.qmd) for all the details about timelines, submission materials, and the how to submit.
 
-If you have issues accessing the abstract templates, please reach out to Claire Bowen at cbowen at urban dot org.
+Please direct any questions about the conference or submission process to privacy.and.public.policy.conference@proton.me.
 
--   [LaTeX](https://www.overleaf.com/read/kvwpjnsqyybh#a2f234) - via Overleaf Project
-
--   [GoogleDoc/Word](https://docs.google.com/document/d/1H6g1bBp7C6wcpzU31DsyWPaiTiMM1gNI/edit) - via Google Docs
-
-If you have issues with using the Google Form submission, please email your abstract along with the following information to the conference email address at privacy dot and dot public dot policy dot conference at proton dot me (privacy.and.public.policy.conference\@proton.me).
-
--   Corresponding Author's First and Last Name
--   Corresponding Author's Preferred Email Address
--   Corresponding Author's Affiliation
--   Do you prefer poster or oral presentation (Poster, Oral, Either)
--   Title of Submission
--   Upload the Abstract (Word Doc or PDF)
 
 ## **Tentative Program Timeline**
 
--   **Announcement for Participation and Conference:** November 2023.
+-   **Announcement for Participation and Conference:** November 2025.
 
--   **Abstract Submission Deadline:** February 29, 2024.
+-   **Abstract Submission Deadline:** December 15, 2025.
 
--   **Reviews Completion:** April 8, 2024.
+-   **Abstract Notification:** Late December, 2025.
 
--   **Abstract Notification:** April 15, 2024.
+-   **Program Announcement:** Early January, 2026.
 
--   **Program Announcement:** May 10, 2024.
+-   **General Registration Opens:** TBD.
 
--   **General Registration Opens:** May 20, 2024.
+-   **Presenter Registration Deadline:** TBD.
 
--   **Presenter Registration Deadline:** May 31, 2024.
-
--   **General Registration Deadline:** August 2, 2024.
+-   **General Registration Deadline:** TBD.
 
 ## **Thank you to our sponsors**
 
-![](images/sloan-logo-01.png){fig-align="center"}
+::: {layout="[[75, 25], [70]]"}
+![](images/USNSF_Logo_Lockup_stacked_RGB_1200ppi.png)
 
-![](images/Vassar_College_Seal.svg-01.png){fig-align="center" width="300"}
+![](images/cmu_wordmarksquare-red-600x600.png)
 
-![](images/McCourt_Secondary_CMYK_Formal_MDI%20(1)-01.jpg){fig-align="center" width="500"}
-
-![](images/Westat_Logo_high-res-01.jpg){fig-align="center" width="500"}
-
-![](images/NORC-Logo-Full-Color-01.jpg){fig-align="center" width="500"}
-
-![](images/ui-logo-rgb-01.png){fig-align="center" width="500"}
+![](images/McCourt_Secondary_CMYK_Formal_MDI%20(1)-01.jpg)
+:::

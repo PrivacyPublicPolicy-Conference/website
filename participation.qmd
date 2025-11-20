@@ -1,0 +1,59 @@
+---
+title: "Call for Participation"
+---
+
+**Submission Deadline**: December 15, 11:59 PM EST, 2025 (Monday)  
+**Expected Decision Announcement**: Late December 2025  
+**Submission Form**: [https://forms.gle/fWcZ6r97fkrmMxX38](https://forms.gle/fWcZ6r97fkrmMxX38)  
+
+# Open Call for Presenter Submissions
+
+The conference program committee invites submissions of proposals and completed papers that explore the intersection of data privacy and public policy. We welcome abstracts addressing data privacy issues in any of the following three topic areas:
+
+Theory and Methods -- Examples include:  
+
+-   Development of novel statistical or computational data-privacy methods
+-   Assessment of benefits, limitations, and tradeoffs of disclosure-control techniques
+-   Advances in privacy risk measurement, modeling, or evaluations
+
+Applications and Infrastructure -- Examples include:  
+
+-   Applications of emerging privacy-enhancing technologies or statistical disclosure-limitation methods
+-   Design, deployment, or evaluation of privacy-protecting data infrastructures (e.g., secure data enclaves, synthetic data, public-use microdata files)
+-   Needs, use cases, or examples of Federal, State, or Local government privacy frameworks
+
+Law and Public Policy -- Examples include:  
+
+-   Interpretation, implementation, or impact assessment of data privacy laws, regulations, and governance frameworks
+-   Identification of gaps between policy requirements and existing privacy-enhancing tools
+-   Analyses of regulatory compliance challenges or policy implications of new privacy technologies
+
+See the [2024 Program](prev_yrs/2024_index.qmd#program) for examples of work that was presented previously. Abstracts based on papers that are already published are welcomed, but must be published recently (2024 or later). If your abstract is accepted, you consent to having your abstract made publicly available on the conference website.
+
+# Abstract Information
+
+The abstract should contain a minimum of 500 to maximum of 1000 words and may include 1-2 tables, figures, and graphs. References should be on the second page. There is a 2 page limit, including references. All manuscripts must be in English and printed in black ink. Font type Times-Roman (Word) or the default font type for LaTeX is encouraged. Use a font that is no smaller than ten-point type throughout the paper, including figure captions (excluding footnotes).
+
+Template files for either Microsoft Word or LaTeX are provided below:
+
+-   [Google Doc or Word Doc](https://docs.google.com/document/d/1Dr5uXwNOA_LjifqD3IfPvNepkvT37i1a/edit?usp=drive_link&ouid=112523876786436372478&rtpof=true&sd=true) - via Google Docs
+-   [LaTeX](https://www.overleaf.com/read/kvwpjnsqyybh#a2f234) - via Overleaf Project
+
+# How To Submit
+**Abstract Submission Form:  [https://forms.gle/fWcZ6r97fkrmMxX38](https://forms.gle/fWcZ6r97fkrmMxX38)**  
+
+We prefer that you use the submission form above to submit all information and materials for consideration. If you have issues submitting via the google form please send an email with all the following information to privacy.and.public.policy.conference\@proton.me:
+
+-   Corresponding Author's First Name
+-   Corresponding Author's Last Name
+-   Corresponding Author's Preferred Email Address
+-   Title of the Submission
+-   Submission Topic Area (Choose all that apply):
+    -   Theory and Methods
+    -   Applications and Infrastructure
+    -   Law and Public Policy
+-   Presentation format preference (Choose all that apply):
+    -   Standard Talk (15 - 20 minutes)
+    -   Lightning Talk (5 minutes)
+    -   Poster
+-   Attach the abstract (.doc or .pdf)

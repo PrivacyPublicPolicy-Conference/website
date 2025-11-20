@@ -1,0 +1,85 @@
+---
+title: "Conference Committees"
+---
+
+If you are interested in volunteering, please reach out to Jingchen (Monika) Hu at jihu at vassar dot edu.
+
+## **Planning Committee Co-Chairs**
+
+***Quentin Brummet***
+
+![Quentin Brummet (he/him) is a senior research methodologist in the Methodology & Quantitative Social Sciences department at NORC at the University of Chicago. In this role, he leads research on education and labor force policies and techniques for data privacy, causal inference and survey methodology. He is particularly interested in research related to the applicability of formal privacy methods to sample surveys.](../figs/quentin_profile.jpg){fig-align="left" width="154"}
+
+***Anthony Caruso***
+
+![Anthony Caruso is Chief of the Confidentiality Research Staff in the Economic Statistical Methods Division at the U.S. Census Bureau.  His work focuses on the development and implementation of differentially private methods for economic statistics.  He is also interested in improving public understanding about differential privacy and other statistical disclosure control methods.](../figs/tony_profile.jpg){fig-align="left" width="200"}
+
+***Jingchen (Monika) Hu***
+
+![Jingchen (Monika) Hu (she/her) is an Associate Professor at Vassar College. She works on advancing Bayesian methods for statistical data privacy challenges, including synthetic data and differential privacy methods. Monika is a co-author of the undergraduate-level Bayesian textbook *Probability and Bayesian Modeling*.](../figs/monika_profile.jpeg){fig-align="left" width="200"}
+
+## **Program Committee Co-Chairs**
+
+***Valbona Bejleri***
+
+![Valbona Bejleri (she/her) is a supervisory mathematical statistician with National Agricultural Statistics Service (NASS) at the Department of Agriculture (USDA). She is also a co-leader of the Statistical Disclosure Limitation Research Team at NASS. Her research interests include methods for predictive inference, uncertainty assessment, and statistical disclosure methods with application to agricultural data.](../figs/valbona_profile.jpg){fig-align="left" width="150"}
+
+***Claire Bowen***
+
+![Claire McKay Bowen (she/her) is a principal research associate and leads the Statistical Methods Group at the Urban Institute. Her research primarily focuses on developing technical and policy solutions to safely expand access to confidential data that advances evidence-based policymaking. She also has interest in improving science communication and integrating data equity into the data privacy process.](../figs/claire_profile.jpg){fig-align="left" width="200"}
+
+***V. Joseph Hotz***
+
+![V. Joseph Hotz is the Arts and Sciences Distinguished Professor of Economics and Public Policy at Duke University. His research areas include the economics of the family, economic demography, labor economics, population health, and applied econometrics.](../figs/joe_profile.jpg){fig-align="left" width="150"}
+
+## **Planning Committee Members**
+
+Brenda Betancourt, NORC at the University of Chicago
+
+Stephanie Straus, Georgetown University
+
+## **Program Committee Members**
+
+Lu Chen, National Institute of Statistical Sciences/USDA, NASS
+
+Michael Hawes, United States Census Bureau
+
+Joshua Snoke, RAND Corp.
+
+## **Reviewers**
+
+James Bailie, Statistics Department, Harvard University
+
+Rob Chew, RTI International
+
+Alyssa Columbus, Johns Hopkins University
+
+Justin Doty, United States Census Bureau
+
+Caleb Floyd, United States Census Bureau
+
+Michael Freiman, United States Census Bureau
+
+Scott Holan, University of Missouri/United States Census Bureau
+
+Michael Jacobson, USDA - National Agricultural Statistics Service
+
+Don Jang, NORC at the University of Chicago
+
+Hang Kim, University of Cincinnati
+
+Jae June Lee, Georgetown Center on Poverty & Inequality
+
+Norm Matloff, University of California, Davis
+
+Casey Meehan, Tumult Labs
+
+Zixin Nie, RTI International
+
+David Pujol, Tumult Labs
+
+Minsun Riddles, Westat
+
+Christine Task, Knexus Research Corporation
+
+Zach Terner, The MITRE Corporation
