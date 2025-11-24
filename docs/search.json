@@ -60,7 +60,7 @@
     "href": "committee.html#program-committee-members",
     "title": "Conference Committees",
     "section": "Program Committee Members",
-    "text": "Program Committee Members\nStephanie Straus, Georgetown University\nLacey Strahm, OpenMined, Columbia University\nValbona Bejleri, National Agricultural Statistics Service (NASS) at the USDA\nLiudas Panavas, Northeastern University"
+    "text": "Program Committee Members\nStephanie Straus, Georgetown University\nLacey Strahm, OpenMined, Columbia University\nLuca Sartore, National Institute of Statistical Sciences (NISS)"
   },
   {
     "objectID": "committee.html#reviewers",
@@ -88,14 +88,14 @@
     "href": "index.html#tentative-program-structure",
     "title": "Privacy and Public Policy Conference",
     "section": "Tentative Program Structure",
-    "text": "Tentative Program Structure\nThe Conference Committee is currently in the process of planning a two-day conference with a single-track format. The event will commence with an invited panel of speakers who will discuss the practical implementation of various data privacy laws before a series of speakers present based on submitted abstracts.  On the second day, following additional presentations, we will wrap up the event with engaging roundtable discussions."
+    "text": "Tentative Program Structure\nThe Conference Committee is currently in the process of planning a two-day conference with a single-track format. The event will commence with an invited panel of speakers who will discuss the current state of data privacy, where we’re headed, and what hurdles need to be tackled. The rest of the day will be filled with presentations from privacy and public policy experts about the research and work they’re currently engaged.  On the second day, following additional presentations, we will wrap up the event with engaging roundtable discussions.\nPlease direct any questions about the conference or submission process to privacy.and.public.policy.conference@proton.me."
   },
   {
     "objectID": "index.html#call-for-participation",
     "href": "index.html#call-for-participation",
     "title": "Privacy and Public Policy Conference",
-    "section": "Call for Participation",
-    "text": "Call for Participation\nAre you doing amazing work related to data privacy or public policy? We are currently accepting abstract submissions and if you would like to present either an oral or poster presentation, please refer to the call for participation page for all the details about timelines, submission materials, and the how to submit.\nPlease direct any questions about the conference or submission process to privacy.and.public.policy.conference@proton.me."
+    "section": "📢Call for Participation📢",
+    "text": "📢Call for Participation📢\nAre you doing amazing work related to data privacy or public policy? We are accepting abstract submissions for oral, lightning, and poster presentations. Refer to the call for participation page for all the details."
   },
   {
     "objectID": "index.html#tentative-program-timeline",
@@ -291,6 +291,6 @@
     "href": "committee.html#program-committee-chair",
     "title": "Conference Committees",
     "section": "Program Committee Chair",
-    "text": "Program Committee Chair\n\n\n\n\n\n\nElan Segarra"
+    "text": "Program Committee Chair\n\n\n\n\n\n\nElan Segarra\nElan (He/Him) is a Research Economist at the Bureau of Labor Statistics in the Compensation Research and Program Development Group. As a representative on the BLS Disclosure Review Board he provides guidance and oversight for agency wide disclosure policy. In addition to improving the use of privacy methods across BLS data products Elan’s research interests also include record linkage, measurement error, and synthetic data."
   }
 ]

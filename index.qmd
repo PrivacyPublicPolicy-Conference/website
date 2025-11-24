@@ -7,17 +7,17 @@ McCourt School of Public Policy\
 125 E St NW\
 Washington, DC 20001
 
+## 📢**Call for Participation**📢
+
+Are you doing amazing work related to data privacy or public policy? We are  accepting abstract submissions for oral, lightning, and poster presentations. Refer to the [call for participation](participation.qmd) page for all the details.
+
 ## Privacy and Public Policy Conference
 
 The inaugural conference in 2024 was an enormous success (see details [here](prev_yrs/2024_index.qmd)) and we are thrilled to be able to come back for another round. The goal of this conference is to foster and enhance collaboration among privacy experts, researchers, data stewards, data practitioners, and public policymakers. This event serves as a crucial platform to bridge communication gaps across these diverse groups and collectively explore technical and policy solutions for addressing challenges related to data privacy and public policy.
 
 ## **Tentative Program Structure**
 
-The Conference Committee is currently in the process of planning a two-day conference with a single-track format. The event will commence with an invited panel of speakers who will discuss the practical implementation of various data privacy laws before a series of speakers present based on submitted abstracts. <!-- In the evening, we are excited to host a poster session, complete with prizes for the best poster presentations.  --> On the second day, following additional presentations, we will wrap up the event with engaging roundtable discussions.
-
-## **Call for Participation**
-
-Are you doing amazing work related to data privacy or public policy? We are currently accepting abstract submissions and if you would like to present either an oral or poster presentation, please refer to the [call for participation page](participation.qmd) for all the details about timelines, submission materials, and the how to submit.
+The Conference Committee is currently in the process of planning a two-day conference with a single-track format. The event will commence with an invited panel of speakers who will discuss the current state of data privacy, where we're headed, and what hurdles need to be tackled. The rest of the day will be filled with presentations from privacy and public policy experts about the research and work they're currently engaged. <!-- In the evening, we are excited to host a poster session, complete with prizes for the best poster presentations.  --> On the second day, following additional presentations, we will wrap up the event with engaging roundtable discussions.
 
 Please direct any questions about the conference or submission process to privacy.and.public.policy.conference@proton.me.
 
