@@ -10,6 +10,8 @@ If you are interested in volunteering either on a committee or to help review su
 ![](figs/sarah_profile.jpg)
 
 ***Sarah Scheffler***  
+Sarah is an assistant professor at Carnegie Mellon University at CyLab, the CMU Security & Privacy Institute. She is in the Department of Software and Societal Systems, and the Engineering and Public Policy Department. She is an applied cryptographer working at the intersection of cryptography, privacy, policy, and law. Her interdisciplinary work includes policy and technical analysis of end-to-end encryption, content moderation, compelled decryption, and privacy policies. 
+<!-- Prior to joining CMU, Scheffler obtained her Ph.D. from Boston University in 2021 and had postdoc positions at Princeton University’s Center for Information Technology Policy, and MIT’s Internet Policy Research Initiative. -->
 :::
 
 ## **Program Committee Chair**
@@ -18,7 +20,7 @@ If you are interested in volunteering either on a committee or to help review su
 ![](figs/elan_profile.jpg)
 
 ***Elan Segarra***  
-Elan (He/Him) is a Research Economist at the Bureau of Labor Statistics in the Compensation Research and Program Development Group. As a representative on the BLS Disclosure Review Board he provides guidance and oversight for agency wide disclosure policy. In addition to improving the use of privacy methods across BLS data products Elan's research interests also include record linkage, measurement error, and synthetic data.
+Elan (He/Him) is a Research Economist at the Bureau of Labor Statistics in the Compensation Research and Program Development Group. As a representative on the BLS Disclosure Review Board he provides guidance and oversight for agency wide disclosure policy. In addition to improving the use of statistical disclosure control methods across BLS data products Elan's research interests include probabilistic record linkage, measurement error, and synthetic data generation.
 :::
 
 ## **Planning Committee Members**

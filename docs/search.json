@@ -102,7 +102,7 @@
     "href": "index.html#tentative-program-timeline",
     "title": "Privacy and Public Policy Conference",
     "section": "Tentative Program Timeline",
-    "text": "Tentative Program Timeline\n\nAnnouncement for Participation and Conference: November 2025.\nAbstract Submission Deadline: December 15, 2025.\nAbstract Notification: Late December, 2025.\nProgram Announcement: Early January, 2026.\nGeneral Registration Opens: TBD.\nPresenter Registration Deadline: TBD.\nGeneral Registration Deadline: TBD."
+    "text": "Tentative Program Timeline\n\nAnnouncement for Participation and Conference: November 2025.\nAbstract Submission Deadline: December 15, 2025.\nAbstract Notification: Late December, 2025.\nGeneral Registration Opens: December 1, 2025.\nPresenter Registration Deadline: TBD.\nGeneral Registration Deadline: TBD."
   },
   {
     "objectID": "index.html#thank-you-to-our-sponsors",
@@ -284,13 +284,13 @@
     "href": "committee.html#planning-committee-chair",
     "title": "Conference Committees",
     "section": "Planning Committee Chair",
-    "text": "Planning Committee Chair\n\n\n\n\n\n\nSarah Scheffler"
+    "text": "Planning Committee Chair\n\n\n\n\n\n\nSarah Scheffler\nSarah is an assistant professor at Carnegie Mellon University at CyLab, the CMU Security & Privacy Institute. She is in the Department of Software and Societal Systems, and the Engineering and Public Policy Department. She is an applied cryptographer working at the intersection of cryptography, privacy, policy, and law. Her interdisciplinary work includes policy and technical analysis of end-to-end encryption, content moderation, compelled decryption, and privacy policies."
   },
   {
     "objectID": "committee.html#program-committee-chair",
     "href": "committee.html#program-committee-chair",
     "title": "Conference Committees",
     "section": "Program Committee Chair",
-    "text": "Program Committee Chair\n\n\n\n\n\n\nElan Segarra\nElan (He/Him) is a Research Economist at the Bureau of Labor Statistics in the Compensation Research and Program Development Group. As a representative on the BLS Disclosure Review Board he provides guidance and oversight for agency wide disclosure policy. In addition to improving the use of privacy methods across BLS data products Elan’s research interests also include record linkage, measurement error, and synthetic data."
+    "text": "Program Committee Chair\n\n\n\n\n\n\nElan Segarra\nElan (He/Him) is a Research Economist at the Bureau of Labor Statistics in the Compensation Research and Program Development Group. As a representative on the BLS Disclosure Review Board he provides guidance and oversight for agency wide disclosure policy. In addition to improving the use of statistical disclosure control methods across BLS data products Elan’s research interests include probabilistic record linkage, measurement error, and synthetic data generation."
   }
 ]
