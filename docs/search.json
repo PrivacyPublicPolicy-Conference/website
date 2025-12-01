@@ -25,7 +25,7 @@
     "href": "registration.html",
     "title": "Registration",
     "section": "",
-    "text": "Registration is free thanks to the generous support from the Alfred P. Sloan Foundation (G-2022-19513). The registration is now closed.\n\n\nGeneral registration opens on May 20, 2024 and closes on August 30, 2024. Conference attendance may be restricted due to space and funding limitations, and registration may be closed before August 30, 2024.\nOral and poster presenters, please register by May 31, 2024.\nIf you have issues with using the Google Form registration, please email your registration to the conference email address at privacy dot and dot public dot policy dot conference at proton dot me (privacy.and.public.policy.conference@proton.me) with the following information.\n\nName\nEmail\nAffiliation\nJob title\nAre you interested in being a session chair?\n\nYes\nNo\nMaybe\n\nAre you interested in being a poster session judge?\n\nYes\nNo\nMaybe\n\nWhich days are you planning to attend?\n\nDay 1 only\nDay 2 only\nBoth days\n\nWhat is your role in this conference? Check all that apply.\n\nAttendee\nCo-author of a oral presentation and/or a poster\nOral presenter\nOrganizer\nPanelist\nPoster presenter\nVolunteer\n\nDo you have any dietary preferences? e.g., vegan."
+    "text": "Registration is free thanks to the generous support from the National Science Foundation.\n\nGeneral registration opens on December 1, 2025 and closes on January 20, 2026. Conference attendance may be restricted due to space and funding limitations, and registration may be closed before January 20, 2026.\n\nIf you have issues with using the Google Form registration, please email your registration to the conference email address at privacy dot and dot public dot policy dot conference at proton dot me (privacy.and.public.policy.conference@proton.me) with the following information.\n\nName\nEmail\nAffiliation\nJob title\nAre you interested in being a session chair?\n\nYes\nNo\nMaybe\n\nAre you interested in being a poster session judge?\n\nYes\nNo\nMaybe\n\nWhich days are you planning to attend?\n\nDay 1 only\nDay 2 only\nBoth days\n\nWhat is your role in this conference? Check all that apply.\n\nAttendee\nCo-author of a oral presentation and/or a poster\nOral presenter\nOrganizer\nPanelist\nPoster presenter\nVolunteer\n\nDo you have any dietary preferences or other accommodations? e.g., vegan."
   },
   {
     "objectID": "committee.html",
@@ -292,5 +292,19 @@
     "title": "Conference Committees",
     "section": "Program Committee Chair",
     "text": "Program Committee Chair\n\n\n\n\n\n\nElan Segarra\nElan (He/Him) is a Research Economist at the Bureau of Labor Statistics in the Compensation Research and Program Development Group. As a representative on the BLS Disclosure Review Board he provides guidance and oversight for agency wide disclosure policy. In addition to improving the use of statistical disclosure control methods across BLS data products Elan’s research interests include probabilistic record linkage, measurement error, and synthetic data generation."
+  },
+  {
+    "objectID": "index.html#call-for-participation---1215-abstract-deadline",
+    "href": "index.html#call-for-participation---1215-abstract-deadline",
+    "title": "Privacy and Public Policy Conference",
+    "section": "📢Call for Participation - 12/15 Abstract Deadline📢",
+    "text": "📢Call for Participation - 12/15 Abstract Deadline📢\nAre you doing amazing work related to data privacy or public policy? We are accepting abstract submissions for oral, lightning, and poster presentations. Refer to the call for participation page for all the details."
+  },
+  {
+    "objectID": "index.html#call-for-participation---1215-deadline",
+    "href": "index.html#call-for-participation---1215-deadline",
+    "title": "Privacy and Public Policy Conference",
+    "section": "📢Call for Participation - 12/15 Deadline📢",
+    "text": "📢Call for Participation - 12/15 Deadline📢\nAre you doing amazing work related to data privacy or public policy? We are accepting abstract submissions for oral, lightning, and poster presentations, and the deadline is December 15, 2025 11:59 PM EST. Refer to the call for participation page for all the details."
   }
 ]

@@ -6,7 +6,7 @@ title: "Registration"
 
 <!-- If you would like to attend this conference, please click [here](https://forms.gle/A79uQdfmiCQvko2XA) to register! -->
 
-General registration opens on \*\*December 1, 2025\*\* and closes on \*\*January 20, 2026\*\*. Conference attendance may be restricted due to space and funding limitations, and registration may be closed before January 20, 2026.
+General registration opens on **December 1, 2025** and closes on **January 20, 2026**. Conference attendance may be restricted due to space and funding limitations, and registration may be closed before January 20, 2026.
 
 <!-- Oral and poster presenters, please register by **May 31, 2024**. -->
 
