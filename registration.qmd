@@ -4,36 +4,33 @@ title: "Registration"
 
 **Registration is free** thanks to the generous support from the National Science Foundation.
 
-<!-- If you would like to attend this conference, please click [here](https://forms.gle/A79uQdfmiCQvko2XA) to register! -->
+If you would like to attend this conference, please click [here](https://forms.gle/ukLEJHbnKdSURb2YA) to register!
 
-General registration opens on **December 1, 2025** and closes on **January 20, 2026**. Conference attendance may be restricted due to space and funding limitations, and registration may be closed before January 20, 2026.
+General registration opens on **December 1, 2025** and closes on **January 15, 2026**. Conference attendance may be restricted due to space and funding limitations, and registration may be closed before January 15, 2026.
 
 <!-- Oral and poster presenters, please register by **May 31, 2024**. -->
 
-If you have issues with using the Google Form registration, please email your registration to the conference email address at privacy dot and dot public dot policy dot conference at proton dot me (privacy.and.public.policy.conference\@proton.me) with the following information.
+If you have issues using the Google Form for registration, please send an email to privacy.and.public.policy.conference\@proton.me with the following registration information:
 
--   Name
+-   First Name
+-   Last Name
 -   Email
--   Affiliation
+-   Primary Affiliation
+-   Secondary Affiliation (For government employees affected by a potential shutdown who still attend, this affiliation would be used on a nametag)
 -   Job title
--   Are you interested in being a session chair?
-    -   Yes
-    -   No
-    -   Maybe
--   Are you interested in being a poster session judge?
-    -   Yes
-    -   No
-    -   Maybe
 -   Which days are you planning to attend?
-    -   Day 1 only
-    -   Day 2 only
+    -   Day 1 only (Monday Feb 9th)
+    -   Day 2 only (Tuesday Feb 10th)
     -   Both days
--   What is your role in this conference? Check all that apply.
+-   Are you interested in being a session chair? Yes/No/Maybe
+-   Are you interested in being a poster session judge? Yes/No/Maybe
+-   Are you interested in reviewing abstract submissions? Yes/No/Maybe
+-   What is your role in this conference? List all that apply.
     -   Attendee
-    -   Co-author of a oral presentation and/or a poster
-    -   Oral presenter
-    -   Organizer
+    -   Oral presenter (submitted or planning to submit)
+    -   Poster presenter (submitted or planning to submit)
+    -   Co-author of a presentation/poster (submitted or planning to submit)
     -   Panelist
-    -   Poster presenter
+    -   Organizer 
     -   Volunteer
 -   Do you have any dietary preferences or other accommodations? e.g., vegan.

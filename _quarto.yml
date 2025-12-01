@@ -10,7 +10,7 @@ website:
         text: Home
       - participation.qmd
       # - schedule.qmd
-      # - registration.qmd
+      - registration.qmd
       # - support.qmd
       - committee.qmd
       - travel.qmd

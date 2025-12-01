@@ -15,6 +15,8 @@ Are you doing amazing work related to data privacy or public policy? We are  acc
 
 The inaugural conference in 2024 was an enormous success (see details [here](prev_yrs/2024_index.qmd)) and we are thrilled to be able to come back for another round. The goal of this conference is to foster and enhance collaboration among privacy experts, researchers, data stewards, data practitioners, and public policymakers. This event serves as a crucial platform to bridge communication gaps across these diverse groups and collectively explore technical and policy solutions for addressing challenges related to data privacy and public policy.
 
+Registration for the conference is now open! Please refer to the [registration page](registration.qmd) for more information.
+
 ## **Tentative Program Structure**
 
 The Conference Committee is currently in the process of planning a two-day conference with a single-track format. The event will commence with an invited panel of speakers who will discuss the current state of data privacy, where we're headed, and what hurdles need to be tackled. The rest of the day will be filled with presentations from privacy and public policy experts about the research and work they're currently engaged. <!-- In the evening, we are excited to host a poster session, complete with prizes for the best poster presentations.  --> On the second day, following additional presentations, we will wrap up the event with engaging roundtable discussions.
@@ -32,9 +34,9 @@ Please direct any questions about the conference or submission process to privac
 
 -   **General Registration Opens:** December 1, 2025.
 
--   **Presenter Registration Deadline:** TBD.
+-   **General Registration Deadline:** January 15, 2026 (may close earlier due to space restrictions).
 
--   **General Registration Deadline:** TBD.
+<!-- -   **Presenter Registration Deadline:** TBD. -->
 
 ## **Thank you to our sponsors**
 
