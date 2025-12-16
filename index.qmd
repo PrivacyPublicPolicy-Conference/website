@@ -11,7 +11,7 @@ Washington, DC 20001
 
 Are you doing amazing work related to data privacy or public policy? We are  accepting abstract submissions for oral, lightning, and poster presentations, and the deadline is December 15, 2025 11:59 PM EST. Refer to the [call for participation](participation.qmd) page for all the details. -->
 
-## Privacy and Public Policy Conference
+## **Privacy and Public Policy Conference**
 
 The inaugural conference in 2024 was an enormous success (see details [here](prev_yrs/2024_index.qmd)) and we are thrilled to be able to come back for another round. The goal of this conference is to foster and enhance collaboration among privacy experts, researchers, data stewards, data practitioners, and public policymakers. This event serves as a crucial platform to bridge communication gaps across these diverse groups and collectively explore technical and policy solutions for addressing challenges related to data privacy and public policy.
 
