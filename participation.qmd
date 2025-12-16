@@ -1,12 +1,40 @@
 ---
-title: "Call for Participation"
+title: "Participation"
 ---
 
 **Submission Deadline**: December 15, 11:59 PM EST, 2025 (Monday)  
 **Expected Decision Announcement**: Late December 2025  
-**Submission Form**: [https://forms.gle/fWcZ6r97fkrmMxX38](https://forms.gle/fWcZ6r97fkrmMxX38)  
+<!-- **Submission Form**: [https://forms.gle/fWcZ6r97fkrmMxX38](https://forms.gle/fWcZ6r97fkrmMxX38)   -->
 
-# Open Call for Presenter Submissions
+**Abstract submission is now closed.**
+
+We are in the process of reviewing submmited abstracts and will communicate with submitters in late December or early January. If you have any questions about this process or your submission, feel free to email privacy.and.public.policy.conference\@proton.me.
+
+# Presenter Submissions
+
+The conference program committee invited submissions of proposals and completed papers that explore the intersection of data privacy and public policy. We welcomed abstracts addressing data privacy issues in any of the following three topic areas:
+
+Theory and Methods -- Examples include:  
+
+-   Development of novel statistical or computational data-privacy methods
+-   Assessment of benefits, limitations, and tradeoffs of disclosure-control techniques
+-   Advances in privacy risk measurement, modeling, or evaluations
+
+Applications and Infrastructure -- Examples include:  
+
+-   Applications of emerging privacy-enhancing technologies or statistical disclosure-limitation methods
+-   Design, deployment, or evaluation of privacy-protecting data infrastructures (e.g., secure data enclaves, synthetic data, public-use microdata files)
+-   Needs, use cases, or examples of Federal, State, or Local government privacy frameworks
+
+Law and Public Policy -- Examples include:  
+
+-   Interpretation, implementation, or impact assessment of data privacy laws, regulations, and governance frameworks
+-   Identification of gaps between policy requirements and existing privacy-enhancing tools
+-   Analyses of regulatory compliance challenges or policy implications of new privacy technologies
+
+See the [2024 Program](prev_yrs/2024_index.qmd#program) for examples of work that was presented previously. Abstracts based on papers that are already published were welcomed, but must be published recently (2024 or later). If your abstract is accepted, you consent to having your abstract made publicly available on the conference website.
+
+<!-- # Open Call for Presenter Submissions
 
 The conference program committee invites submissions of proposals and completed papers that explore the intersection of data privacy and public policy. We welcome abstracts addressing data privacy issues in any of the following three topic areas:
 
@@ -56,4 +84,4 @@ We prefer that you use the submission form above to submit all information and m
     -   Standard Talk (15 - 20 minutes)
     -   Lightning Talk (5 minutes)
     -   Poster
--   Attach the abstract (.doc or .pdf)
+-   Attach the abstract (.doc or .pdf) -->
