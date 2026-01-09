@@ -45,4 +45,6 @@ Luca Sartore, National Institute of Statistical Sciences (NISS)
 
 ## **Reviewers**
 
-We are actively looking for reviewers of abstract submissions. If you have any interest in helping please reach out to Elan Segarra at privacy.and.public.policy.conference\@proton.me for more information.
+We thank the following individuals for volunteering their time and expertise to review submitted abstracts: Srivatsa Balasubramanyam, Claire Bowen, Gabriel Diaz Ramos, Caleb Floyd, Monika Hu, Saki Kinney, Amy O'Hara, Amin Rahimian, Jennifer Rhorer, Nathaniel Robinson, Edwin Salguero, Terrance Savitsky, Jeremy Seeman, Joshua Snoke, and Matt Williams.
+
+<!-- We are actively looking for reviewers of abstract submissions. If you have any interest in helping please reach out to Elan Segarra at privacy.and.public.policy.conference\@proton.me for more information. -->
