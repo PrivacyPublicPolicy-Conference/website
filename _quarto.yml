@@ -9,7 +9,7 @@ website:
       - href: index.qmd
         text: Home
       - participation.qmd
-      # - schedule.qmd
+      - schedule.qmd
       - registration.qmd
       # - support.qmd
       - committee.qmd

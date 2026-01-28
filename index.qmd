@@ -21,7 +21,7 @@ If you would like to receive announcements about this conference and future PPPC
 
 ## **Program Structure**
 
-The conference committee is currently in the process of planning a two-day conference with a single-track format. The event will commence with an invited panel of speakers who will discuss the current state of data privacy, where we're headed, and what hurdles need to be tackled. The rest of the day will be filled with presentations from privacy and public policy experts about the research and work they're currently engaged. In the evening, we are excited to host a poster session, complete with prizes for the best poster presentations.  The second day will continue with additional presentations and opportunities to network .
+The conference committee has planned a two-day conference with a single-track format. The event will commence with an invited panel of speakers who will discuss the current state of data privacy, where we're headed, and what hurdles need to be tackled. The rest of the day will be filled with presentations from privacy and public policy experts about the research and work they're currently engaged. In the later afternoon and evening we are excited to host a poster session with lightning talks, complete with prizes for the best poster presentations.  The second day will continue with additional presentations and discussions. Check out the [full program](schedule.qmd) for more details.
 
 Please direct any questions about the conference or submission process to privacy.and.public.policy.conference@proton.me.
 
