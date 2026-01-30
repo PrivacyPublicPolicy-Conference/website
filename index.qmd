@@ -42,10 +42,10 @@ Please direct any questions about the conference or submission process to privac
 
 ## **Thank you to our sponsors**
 
-::: {layout="[[75, 25], [70]]"}
+::: {layout="[[62, 38], [70]]"}
 ![](images/USNSF_Logo_Lockup_stacked_RGB_1200ppi.png)
 
-![](images/cmu_wordmarksquare-red-600x600.png)
+![](images/CyLab Logo Stacked FULL COLOR.png)
 
 ![](images/McCourt_Secondary_CMYK_Formal_MDI%20(1)-01.jpg)
 :::

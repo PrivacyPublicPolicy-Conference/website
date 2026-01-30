@@ -2,7 +2,7 @@
 title: "Conference Schedule"
 ---
 
-Note that the following schedule is subject to change. An offline version of the program may be downloaded [here](misc_files/2026%20PPPC%20Program%20V1.1.pdf).
+Note that the following schedule is subject to change. An offline version of the program may be downloaded [here](misc_files/2026%20PPPC%20Program.pdf).
 
 ## Program Overview
 
