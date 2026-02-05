@@ -8,12 +8,14 @@ title: "Registration"
 
 <!-- General registration opens on **December 1, 2025** and closes on **January 15, 2026**. Conference attendance may be restricted due to space and funding limitations, and registration may be closed before January 15, 2026. -->
 
-Registration for the conference has now closed due to capacity constraints. If you were unable to register you may add your name to the waiting list by filling out the form [here](https://forms.gle/wewVeJoLwdU2oEHo9). If space becomes available we will reach out to those on the waitlist.
+Unfotunately registration for the conference has now closed due to capacity constraints. If you would like to be on the email list when announcements go out about the next PPPC please send an email to privacy.and.public.policy.conference\@proton.me and ask to be added to the google group associated with the conference.
+
+<!-- If you were unable to register you may add your name to the waiting list by filling out the form [here](https://forms.gle/wewVeJoLwdU2oEHo9). If space becomes available we will reach out to those on the waitlist. -->
 
 <!-- If you have issues using the Google Form for registration, please send an email to privacy.and.public.policy.conference\@proton.me with the following registration information: -->
-If you have issues using the Google Form for the waitlist, please send an email to privacy.and.public.policy.conference\@proton.me with the following  information:
+<!-- If you have issues using the Google Form for the waitlist, please send an email to privacy.and.public.policy.conference\@proton.me with the following information: -->
 
--   First Name
+<!-- -   First Name
 -   Last Name
 -   Email
 -   Primary Affiliation
@@ -22,11 +24,11 @@ If you have issues using the Google Form for the waitlist, please send an email 
 -   Which days are you planning to attend?
     -   Day 1 only (Monday Feb 9th)
     -   Day 2 only (Tuesday Feb 10th)
-    -   Both days
+    -   Both days -->
 <!-- -   Are you interested in being a session chair? Yes/No/Maybe -->
 <!-- -   Are you interested in being a poster session judge? Yes/No/Maybe -->
 <!-- -   Are you interested in reviewing abstract submissions? Yes/No/Maybe -->
--   What is your role in this conference? List all that apply.
+<!-- -   What is your role in this conference? List all that apply.
     -   Attendee
     -   Oral presenter
     -   Poster presenter
@@ -34,4 +36,4 @@ If you have issues using the Google Form for the waitlist, please send an email 
     -   Panelist
     -   Organizer 
     -   Volunteer
--   Do you have any dietary preferences or other accommodations? e.g., vegan.
+-   Do you have any dietary preferences or other accommodations? e.g., vegan. -->
