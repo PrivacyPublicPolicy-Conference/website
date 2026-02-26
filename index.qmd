@@ -23,21 +23,21 @@ If you were able to attend any part of the conference, we would appreciate it if
 If you would like to receive announcements about future PPPCs, please send an email to privacy.and.public.policy[at]gmail.com and ask to be added to the PPPC google group. For those that are interested in helping out with the next PPPC (for example by reviewing submissions, being involved in the planning/programming committees, or even sponsoring) you may also email privacy.and.public.policy@gmail.com to get involved.
 
 ::: {.panel-fill layout="[[0.56, 1, 1], [1, 1], [0.87, 1, 0.49]]"}
-![PPPC Banner](\images\2026\misc\PPPCBanner.jpg){group="gallery" description="Welcoming attendees to the second Privacy and Public Policy Conference."}
+![PPPC Banner](images/2026/misc/PPPCBanner.jpg){group="gallery" description="Welcoming attendees to the second Privacy and Public Policy Conference."}
 
-![Primary Panel](\images\2026\misc\DayOnePanel01.jpeg){group="gallery" description="The opening panel on day one consisting of Yaw Etse, Joe Calandrino, and Naomi Lefkovitz and moderated by Sharron Gibbons."}
+![Primary Panel](images/2026/misc/DayOnePanel01.jpeg){group="gallery" description="The opening panel on day one consisting of Yaw Etse, Joe Calandrino, and Naomi Lefkovitz and moderated by Sharron Gibbons."}
 
-![Presentation](\images\2026\misc\DayOnePresentation01.jpg){group="gallery" description="Prof. Amin Rahimian presenting work on *Differential Privacy for Network Connectedness Indices* in the day one session __New Methods for Differentially Private Estimation and Learning__."}
+![Presentation](images/2026/misc/DayOnePresentation01.jpg){group="gallery" description="Prof. Amin Rahimian presenting work on *Differential Privacy for Network Connectedness Indices* in the day one session __New Methods for Differentially Private Estimation and Learning__."}
 
-![Policy Panel](\images\2026\misc\DayTwoPanel01.jpg){group="gallery" description="The policy panel on day two consisting of Alan McQuinn and Dylan Irlbeck, and moderated by Tatiana Rice."}
+![Policy Panel](images/2026/misc/DayTwoPanel01.jpg){group="gallery" description="The policy panel on day two consisting of Alan McQuinn and Dylan Irlbeck, and moderated by Tatiana Rice."}
 
-![Presentation](\images\2026\misc\DayTwoPresentation01.jpg){group="gallery" description="Shlmoi Hod presenting work on *Full-Stack Privacy Risk Assessment* in the day two session __From PETs to Practice: Infrastructure and Applications__."}
+![Presentation](images/2026/misc/DayTwoPresentation01.jpg){group="gallery" description="Shlmoi Hod presenting work on *Full-Stack Privacy Risk Assessment* in the day two session __From PETs to Practice: Infrastructure and Applications__."}
 
-![Attendees](\images\2026\misc\EndOfConferenceAttendees01.jpg){group="gallery" description="The PPPC attendees on day two gather for an end of conference photograph."}
+![Attendees](images/2026/misc/EndOfConferenceAttendees01.jpg){group="gallery" description="The PPPC attendees on day two gather for an end of conference photograph."}
 
-![Organizers](\images\2026\misc\Organizers01.jpg){group="gallery" description="The members of the Programming and Planning Committees responsible for organizing the PPPC. From right to left: Ella Blue, Stephanie Straus, Elan Segarra (Programming Chair), Luca Sartore, Minsun Riddles, Saki Kinney, Sarah Scheffler (Planning Chair), and Lacey Strahm. Additional planning committee members not pictured include Amy O'Hara and Matt Williams."}
+![Organizers](images/2026/misc/Organizers01.jpg){group="gallery" description="The members of the Programming and Planning Committees responsible for organizing the PPPC. From right to left: Ella Blue, Stephanie Straus, Elan Segarra (Programming Chair), Luca Sartore, Minsun Riddles, Saki Kinney, Sarah Scheffler (Planning Chair), and Lacey Strahm. Additional planning committee members not pictured include Amy O'Hara and Matt Williams."}
 
-![Poster Winner](\images\2026\misc\StudentPosterWinner.jpg){group="gallery" description="The winner of the student poster contest, Kevin Eng, with his poster on *Valid Inference Under Data Swapping*."}
+![Poster Winner](images/2026/misc/StudentPosterWinner.jpg){group="gallery" description="The winner of the student poster contest, Kevin Eng, with his poster on *Valid Inference Under Data Swapping*."}
 :::
 
 ## **Program Structure**
