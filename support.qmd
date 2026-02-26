@@ -29,7 +29,7 @@ All applicants should submit their application materials to privacy dot and dot 
 
 # Poster Awards
 
-We are thrilled to announce that there will be **two** poster awards among posters presented during the poster session.  
+We are thrilled to announce that there will be **two** poster awards among posters presented during the poster session.
 
 Check out the [schedule](schedule.qmd) for information about the poster session.
 

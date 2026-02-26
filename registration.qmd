@@ -8,12 +8,12 @@ title: "Registration"
 
 <!-- General registration opens on **December 1, 2025** and closes on **January 15, 2026**. Conference attendance may be restricted due to space and funding limitations, and registration may be closed before January 15, 2026. -->
 
-Unfotunately registration for the conference has now closed due to capacity constraints. If you would like to be on the email list when announcements go out about the next PPPC please send an email to privacy.and.public.policy.conference\@proton.me and ask to be added to the google group associated with the conference.
+Unfotunately registration for the conference has now closed due to capacity constraints. If you would like to be on the email list when announcements go out about the next PPPC please send an email to privacy.and.public.policy[at]gmail.com and ask to be added to the google group associated with the conference.
 
 <!-- If you were unable to register you may add your name to the waiting list by filling out the form [here](https://forms.gle/wewVeJoLwdU2oEHo9). If space becomes available we will reach out to those on the waitlist. -->
 
-<!-- If you have issues using the Google Form for registration, please send an email to privacy.and.public.policy.conference\@proton.me with the following registration information: -->
-<!-- If you have issues using the Google Form for the waitlist, please send an email to privacy.and.public.policy.conference\@proton.me with the following information: -->
+<!-- If you have issues using the Google Form for registration, please send an email to privacy.and.public.policy[at]gmail.com with the following registration information: -->
+<!-- If you have issues using the Google Form for the waitlist, please send an email to privacy.and.public.policy[at]gmail.com with the following information: -->
 
 <!-- -   First Name
 -   Last Name

@@ -6,9 +6,9 @@ title: "Participation"
 **Expected Decision Announcement**: Late December 2025  
 <!-- **Submission Form**: [https://forms.gle/fWcZ6r97fkrmMxX38](https://forms.gle/fWcZ6r97fkrmMxX38)   -->
 
-**Abstract submission is now closed.**
+**Abstract submission is now closed for the 2026 PPPC.**
 
-We are in the process of reviewing submmited abstracts and will communicate with submitters in late December or early January. If you have any questions about this process or your submission, feel free to email privacy.and.public.policy.conference\@proton.me.
+<!-- We are in the process of reviewing submmited abstracts and will communicate with submitters in late December or early January. If you have any questions about this process or your submission, feel free to email privacy.and.public.policy[at]gmail.com. -->
 
 # Presenter Submissions
 
@@ -70,7 +70,7 @@ Template files for either Microsoft Word or LaTeX are provided below:
 # How To Submit
 **Abstract Submission Form:  [https://forms.gle/fWcZ6r97fkrmMxX38](https://forms.gle/fWcZ6r97fkrmMxX38)**  
 
-We prefer that you use the submission form above to submit all information and materials for consideration. If you have issues submitting via the google form please send an email with all the following information to privacy.and.public.policy.conference\@proton.me:
+We prefer that you use the submission form above to submit all information and materials for consideration. If you have issues submitting via the google form please send an email with all the following information to privacy.and.public.policy[at]gmail.com:
 
 -   Corresponding Author's First Name
 -   Corresponding Author's Last Name

@@ -109,14 +109,14 @@
     "href": "participation.html",
     "title": "Participation",
     "section": "",
-    "text": "Submission Deadline: December 15, 11:59 PM EST, 2025 (Monday)\nExpected Decision Announcement: Late December 2025\n\nAbstract submission is now closed.\nWe are in the process of reviewing submmited abstracts and will communicate with submitters in late December or early January. If you have any questions about this process or your submission, feel free to email privacy.and.public.policy.conference@proton.me.\n\nPresenter Submissions\nThe conference program committee invited submissions of proposals and completed papers that explore the intersection of data privacy and public policy. We welcomed abstracts addressing data privacy issues in any of the following three topic areas:\nTheory and Methods – Examples include:\n\nDevelopment of novel statistical or computational data-privacy methods\nAssessment of benefits, limitations, and tradeoffs of disclosure-control techniques\nAdvances in privacy risk measurement, modeling, or evaluations\n\nApplications and Infrastructure – Examples include:\n\nApplications of emerging privacy-enhancing technologies or statistical disclosure-limitation methods\nDesign, deployment, or evaluation of privacy-protecting data infrastructures (e.g., secure data enclaves, synthetic data, public-use microdata files)\nNeeds, use cases, or examples of Federal, State, or Local government privacy frameworks\n\nLaw and Public Policy – Examples include:\n\nInterpretation, implementation, or impact assessment of data privacy laws, regulations, and governance frameworks\nIdentification of gaps between policy requirements and existing privacy-enhancing tools\nAnalyses of regulatory compliance challenges or policy implications of new privacy technologies\n\nSee the 2024 Program for examples of work that was presented previously. Abstracts based on papers that are already published were welcomed, but must be published recently (2024 or later). If your abstract is accepted, you consent to having your abstract made publicly available on the conference website."
+    "text": "Submission Deadline: December 15, 11:59 PM EST, 2025 (Monday)\nExpected Decision Announcement: Late December 2025\n\nAbstract submission is now closed for the 2026 PPPC.\n\n\nPresenter Submissions\nThe conference program committee invited submissions of proposals and completed papers that explore the intersection of data privacy and public policy. We welcomed abstracts addressing data privacy issues in any of the following three topic areas:\nTheory and Methods – Examples include:\n\nDevelopment of novel statistical or computational data-privacy methods\nAssessment of benefits, limitations, and tradeoffs of disclosure-control techniques\nAdvances in privacy risk measurement, modeling, or evaluations\n\nApplications and Infrastructure – Examples include:\n\nApplications of emerging privacy-enhancing technologies or statistical disclosure-limitation methods\nDesign, deployment, or evaluation of privacy-protecting data infrastructures (e.g., secure data enclaves, synthetic data, public-use microdata files)\nNeeds, use cases, or examples of Federal, State, or Local government privacy frameworks\n\nLaw and Public Policy – Examples include:\n\nInterpretation, implementation, or impact assessment of data privacy laws, regulations, and governance frameworks\nIdentification of gaps between policy requirements and existing privacy-enhancing tools\nAnalyses of regulatory compliance challenges or policy implications of new privacy technologies\n\nSee the 2024 Program for examples of work that was presented previously. Abstracts based on papers that are already published were welcomed, but must be published recently (2024 or later). If your abstract is accepted, you consent to having your abstract made publicly available on the conference website."
   },
   {
     "objectID": "committee.html",
     "href": "committee.html",
     "title": "Conference Committees",
     "section": "",
-    "text": "If you are interested in volunteering either on a committee or to help review submissions, please reach out to Elan Segarra at privacy.and.public.policy.conference@proton.me."
+    "text": "If you are interested in volunteering either on a committee or to help review submissions for a future PPPC, please reach out to privacy.and.public.policy[at]gmail.com."
   },
   {
     "objectID": "committee.html#planning-committee-chair",
@@ -235,7 +235,7 @@
     "href": "registration.html",
     "title": "Registration",
     "section": "",
-    "text": "Registration is free thanks to the generous support from the National Science Foundation.\n\n\nUnfotunately registration for the conference has now closed due to capacity constraints. If you would like to be on the email list when announcements go out about the next PPPC please send an email to privacy.and.public.policy.conference@proton.me and ask to be added to the google group associated with the conference."
+    "text": "Registration is free thanks to the generous support from the National Science Foundation.\n\n\nUnfotunately registration for the conference has now closed due to capacity constraints. If you would like to be on the email list when announcements go out about the next PPPC please send an email to privacy.and.public.policy[at]gmail.com and ask to be added to the google group associated with the conference."
   },
   {
     "objectID": "support.html",
@@ -264,5 +264,12 @@
     "title": "Conference Schedule",
     "section": "Program Overview",
     "text": "Program Overview\n\nDay 1 Monday, February 9th\n\n\n\n\n\n\n8:00am - 8:45am\nCheck-in & Coffee\n\n\n8:45am - 9:00am\nWelcome and Opening Remarks\n\n\n9:00am - 10:00am\nOpening Panel: Data Privacy and the Public Interest: Where Policy Meets Practice\n\n\n10:00am - 10:15am\nCoffee & Tea Break\n\n\n10:15am - 12:00pm\nSession 1: New Methods for Differentially Private Estimation and Learning\n\n\n12:00pm - 1:30pm\nLunch and PET Discussion\n\n\n1:30pm - 3:15pm\nSession 2: Rethinking Privacy: Concepts, Metrics, and Use Cases\n\n\n3:15pm - 3:30pm\nCoffee & Tea Break\n\n\n3:30pm - 5:00pm\nLightning Talks and Poster Session\n\n\n5:00pm - 5:15pm\nPoster Awards & Day 1 Wrap-Up\n\n\n5:15pm - 7:00pm\nNetworking Reception\n\n\n\n\nDay 2 Tuesday, February 10th\n\n\n\n\n\n\n8:00am - 9:00am\nCheck-in & Coffee\n\n\n9:00am - 10:00am\nPolicy Panel: Translating Privacy Technology into Privacy Law: How Privacy Researchers and Practitioners Can Support Policymakers\n\n\n10:00am - 10:15am\nCoffee & Tea Break\n\n\n10:15am - 11:45am\nSession 3: Regulatory Realities of Privacy and Data Protection\n\n\n11:45am - 1:00pm\nLunch and PET Discussion\n\n\n1:00pm - 2:45pm\nSession 4: From PETs to Practice: Infrastructure and Applications\n\n\n2:45pm - 3:00pm\nConference Wrap-Up"
+  },
+  {
+    "objectID": "committee.html#poster-judges-and-session-chairs",
+    "href": "committee.html#poster-judges-and-session-chairs",
+    "title": "Conference Committees",
+    "section": "Poster Judges and Session Chairs",
+    "text": "Poster Judges and Session Chairs\nWe also want to thank the following individuals for helping choose winners for the poster contest and helping to make the sessions run as smoothly as possible: Srivatsa Balasubramanyan, Tony Caruso, Michael Hawes, Don Jang, Saki Kinney, Benjamin Raymond, Minsun Riddles, and Joshua Snoke."
   }
 ]
